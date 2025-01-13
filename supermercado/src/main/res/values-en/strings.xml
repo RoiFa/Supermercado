@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperMercado</string>
+    <string name="nombre">User name</string>
+    <string name="passwd">Password</string>
+    <string name="enlaceRecuperacion">If you don\'t remember your password, click <b><u><font color="#3234a8">here</font></u></b></string>
+    <string name="sesionIniciada">Keep session open</string>
+    <string name="register">If you don\'t have an account, <b><u><font color="#3234a8">Register here</font></u></b></string>
+    <string name="terms"><b>Terms and conditions</b></string>
+</resources>
